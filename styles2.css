@@ -1,0 +1,29 @@
+body{
+    background: pink;
+}
+
+
+h3{
+    color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30%;
+}
+.lead{
+    margin-top: 10%;
+}
+
+form{
+    margin-top: 10%;
+}
+#connected{
+    margin-top: 10%;
+}
+h2{
+    color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10%;
+}
