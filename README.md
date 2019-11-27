@@ -1,3 +1,3 @@
 ## updated-portfolio
 
-I am not a very creative person but I am very very happy with the way my portfolio looks. I think it has a nice polished look, my cards coukd look a little better but for the most part I am proud of the look so far. I am excited to learn more and add to it. I have added my trivia game, my crystal collector game, as well as the giphy app to this portfolio. Those are the assignments I am most proud of. Attached is also my linkedin web and git hub page, as well as my resume. 
+This is currently an updated portfolio of some work I have done for the 2019 coding bootcamp.
